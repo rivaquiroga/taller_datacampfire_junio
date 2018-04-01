@@ -14,3 +14,13 @@ Para poder instalar R y RStudio, sigue los siguientes pasos:
 Open Source License" (gratuita). 
 - Instala RStudio en tu computador, tal como lo haces con cualquier programa. 
 - Chequea que el programa haya quedado adecuadamente instalado.
+
+## Instalación de los paquetes de R que usaremos
+
+En este taller usaremos con una serie de paquetes de R que nos permitirán analizar textos y hacer más simple nuestro proceso de trabajo. Es importante que los tengas instalados antes del comienzo del workshop.
+
+```r
+install.packages("tidyverse")
+install.packages("tidytext")
+install.pacckages("quanteda")
+```
