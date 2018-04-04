@@ -3,7 +3,7 @@
 
 ## Instalación de R y RStudio
 
-En este taller utilizaremos R a través del IDE RStudio. ¿Qué es un IDE? IDE es el acrónimo de Integrated Development Environment, es decir, de un Entorno de Desarrollo Integrado. En palabras simples, se trata de un lenguaje que nos entrega herramientas para trabajar de manera más fácil con un determinado programa de programación (en este caso, R). 
+En este taller utilizaremos R a través del IDE RStudio. ¿Qué es un IDE? IDE es el acrónimo de Integrated Development Environment, es decir, de un Entorno de Desarrollo Integrado. En palabras simples, se trata de un entorno que nos entrega herramientas para trabajar de manera más fácil con un determinado lenguaje de programación (en este caso, R). 
 
 Para poder instalar R y RStudio, sigue los siguientes pasos:
 
