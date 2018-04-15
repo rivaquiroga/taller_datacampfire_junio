@@ -46,10 +46,14 @@ install.packages("quanteda")
 
 3. presiona 'enter'. 
 
-El resultado se debería ver parecido a esto:
+Los dos primeros paquetes se debieran a instalar sin problema. En el caso del tercero (`quanteda`), antes de instalarlo, R te hará una pregunta, cuya respuesta es __no__. Para seguir, entonces, debes tipear una `n` en la consola y luego presionar `enter`:
+
+![](https://github.com/rivaquiroga/taller_datacampfire_mayo/blob/master/images/pregunta_quanteda.png)
+
+Si todo sale bien, deberías ver algo así al final del proceso:
 
 ![](https://github.com/rivaquiroga/taller_datacampfire_mayo/blob/master/images/paquetes_instalados.png)
 
 ### ¿Quieres avanzar más?
 
-Este workshop no supone ningún conocimiento previo de R, pero si te interesa llegar con un poco más familiarizada/o, te sugiero seguir [el siguiente tutorial introductorio](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/2018-04_taller_primeros_pasos_en_R.Rmd). 
+Este workshop no supone ningún conocimiento previo de R, pero si te interesa llegar un poco más familiarizada/o, te sugiero seguir [el siguiente tutorial introductorio](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/2018-04_taller_primeros_pasos_en_R.Rmd). 
