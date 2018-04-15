@@ -37,18 +37,19 @@ Para instalarlos,
 ```r
 install.packages("tidyverse")
 install.packages("tidytext")
-install.packages("tidyverse")
+install.packages("quanteda")
 ```
 
 2. pégalo en la consola (_Console_) de RStudio:
 
-![](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/images/install.packages.png)
+![](https://github.com/rivaquiroga/taller_datacampfire_mayo/blob/master/images/install.packages.png)
 
 3. presiona 'enter'. 
 
 El resultado se debería ver parecido a esto:
 
-![](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/images/paquetes_instalados.png)
+![](https://github.com/rivaquiroga/taller_datacampfire_mayo/blob/master/images/paquetes_instalados.png)
 
-¿Salió todo bien? ¡Excelente! Ya escribiste tus primeras líneas de código :)
+### ¿Quieres avanzar más?
 
+Este workshop no supone ningún conocimiento previo de R, pero si te interesa llegar con un poco más familiarizada/o, te sugiero seguir [el siguiente tutorial introductorio](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/2018-04_taller_primeros_pasos_en_R.Rmd). 
