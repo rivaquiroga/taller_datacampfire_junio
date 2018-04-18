@@ -1,6 +1,6 @@
 # Taller: Más allá de la nube de palabras: exploración y visualización de textos usando R
 
-> Taller a realizar en conjunto con DataCampfire en junio de 2018. Pronto más información en https://www.datacampfire.com/
+> Taller a realizar en conjunto con DataCampfire en junio de 2018. Este documento está en proceso de elaboración y no es la última versión. Pero puede servirte para tener una idea de las herramientas que utilizaremos. Si quieres saber más sobre el taller, revisa el siguiente [enlace](https://www.datacampfire.com/2018/04/04/mas-alla-de-la-nube-de-palabras-exploracion-y-visualizacion-de-textos-usando-r/)
 
 
 ## Antes del taller
