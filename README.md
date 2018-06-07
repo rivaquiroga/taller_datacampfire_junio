@@ -53,7 +53,7 @@ install.packages("tidyverse")
 
 3. presiona 'enter'. 
 
-Dependiendo de tu sistema operativo o versión de R, es posible que en el caso del paquete `quanteda`R te haga una pregunta. La respuesta esa pregunta es __no__. Para seguir, entonces, debes tipear una `n` en la consola y luego presionar `enter`:
+Dependiendo de tu sistema operativo o versión de R, es posible que en el caso del paquete `quanteda` R te haga una pregunta. La respuesta esa pregunta es __no__. Para seguir, entonces, debes tipear una `n` en la consola y luego presionar `enter`:
 
 ![](https://github.com/rivaquiroga/taller_datacampfire_mayo/blob/master/images/pregunta_quanteda.png)
 
@@ -64,8 +64,8 @@ Si todo sale bien, deberías ver algo así al final del proceso:
 ### Otras aplicaciones
 
 Durante el taller usaremos otras aplicaciones que nos servirán para ver y editar tanto archivos de textos, como los resultados de los análisis. En todos los casos de trata de aplicaciones libres. 
-- Editor de textos. Si bien tanto Windows como Mac traen uno por defecto, se sugiere descargar [Sublime Text](https://www.sublimetext.com/)
-- Hoja de cálculo. Se sugiere [LibreOffice](https://es.libreoffice.org/descarga/libreoffice/). Para el propósito que la utilizaremos funciona mejor que Excel. 
+- __Editor de textos__. Si bien tanto Windows como Mac traen uno por defecto, se sugiere descargar [Sublime Text](https://www.sublimetext.com/).
+- __Hoja de cálculo__. Se sugiere [LibreOffice](https://es.libreoffice.org/descarga/libreoffice/). Para el propósito que la utilizaremos funciona mejor que Excel. 
 
 ### ¿Quieres avanzar más?
 
